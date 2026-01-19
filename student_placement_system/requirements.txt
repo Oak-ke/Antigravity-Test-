@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+faker
+statsmodels
+matplotlib
+seaborn
+fairlearn
+folium
+streamlit-folium
+scipy
