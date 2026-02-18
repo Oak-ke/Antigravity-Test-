@@ -55,10 +55,10 @@ student_placement_system/
    ```bash
    python student_placement_system/tests/test_flow.py
    ```
-## ⚖️ Ethical Safeguards
+## Ethical Safeguards
 This system is designed as a Decision Support System (DSS). It includes:
 - **Anonymization**: Synthetic data ensures no real PII is used in this prototype.
 - **Fairness Metrics**: Explicit reporting on disparate impact to inform human oversight.
 - **Human-in-the-loop**: Final placement review capability before commitment.
-## 📜 License
+## License
 Distributed under the MIT License. See `LICENSE` for more information
